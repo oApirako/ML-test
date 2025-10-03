@@ -1,0 +1,6 @@
+streamlit
+joblib
+scikit-learn
+opencv-python-headless
+Pillow
+numpy
